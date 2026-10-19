@@ -1,0 +1,6 @@
+{
+  "name": "LUXE WEAR - Luxury Fashion & Ready-to-Wear",
+  "description": "Modern, premium clothing e-commerce website for LUXE WEAR with curated men's and women's collections, real-time cart, checkout, order tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
